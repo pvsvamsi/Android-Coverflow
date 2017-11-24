@@ -1,7 +1,7 @@
 ## Android-CoverFlow
 A beautiful cover flow for android platform , base on ViewPager.
 
-### [Demo Vedio](https://youtu.be/2FEp33kisz4)
+### [Demo Video](https://youtu.be/2FEp33kisz4)
 
 ## GIF
 <img src="https://github.com/crosswall/Android-Coverflow/blob/master/gif/3.pic_hd.gif" width="40%" height="40%">
@@ -117,8 +117,8 @@ You might want to manually set the first view to be elevated, this can easily be
 >* More CoordinatorLayout.Behavior...
 >* More Configurations...
 
-### Lincense
-```lincense
+### License
+```license
 The MIT License (MIT)
 
 Copyright (c) 2015 Hugo yu
